@@ -1,5 +1,5 @@
-Credentials cache: API:8DDC22A3-029A-41A6-BF15-3A5DADE600F8
+Credentials cache: API:6A3931FA-90E9-4F24-980D-A6AAC2AAB329
         Principal: bleotard@42NICE.FR
 
-  Issued                Expires             Flags    Principal
-Jan 12 06:28:37 2021  Jan 12 16:28:37 2021  FPRIA  krbtgt/42NICE.FR@42NICE.FR
+  Issued                Expires               Principal
+Jan 13 13:07:02 2021  Jan 13 23:06:55 2021  krbtgt/42NICE.FR@42NICE.FR
